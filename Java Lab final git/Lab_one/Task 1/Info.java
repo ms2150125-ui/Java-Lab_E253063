@@ -2,12 +2,12 @@ public class Info {
 
     public static void main(String[] args) {
 
-        String name = "Mojibur Ramen";
-        String studentID = "E253040";
+        String name = "Md.Abu Sayeed";
+        String studentID = "E253063";
         int age = 19;
-        String phone = "01880482088";
-        String email = "mojib225899@gmail.com";
-        String address = "Cox's Bazar, Chittagong";
+        String phone = "01813551732";
+        String email = "ms2150125@gmail.com";
+        String address = "Potiya r, Chittagong";
 
         System.out.println("Name: " + name);
         System.out.println("Student ID: " + studentID);
